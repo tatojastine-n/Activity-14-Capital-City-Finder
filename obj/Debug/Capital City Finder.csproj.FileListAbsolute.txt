@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Capital City Finder\bin\Debug\Capital City Finder.exe.config
+C:\Users\HP\source\repos\Capital City Finder\bin\Debug\Capital City Finder.exe
+C:\Users\HP\source\repos\Capital City Finder\bin\Debug\Capital City Finder.pdb
+C:\Users\HP\source\repos\Capital City Finder\obj\Debug\Capital City Finder.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Capital City Finder\obj\Debug\Capital City Finder.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Capital City Finder\obj\Debug\Capital City Finder.exe
+C:\Users\HP\source\repos\Capital City Finder\obj\Debug\Capital City Finder.pdb
